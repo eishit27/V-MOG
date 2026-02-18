@@ -1,0 +1,2 @@
+Phase 1 Code
+PROJECT: DINO RUN (16*2 LCD display edition)
